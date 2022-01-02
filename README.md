@@ -16,7 +16,7 @@
 
 ## First Time Setup
 
-1. Download and install all the required tools
+1. Download and install all the [required tools](#tools-you-will-need)
 2. Create a [GitHub](https://github.com/) account, and [enable 2 Factor Authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication). You can use [Authy](https://authy.com/) as the 2FA app
 3. Contact @recoskyler, and tell him your GitHub username
 4. Open VS Code, terminal, or command prompt
